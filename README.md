@@ -1,7 +1,7 @@
 Hi 👋 My name is Ayo Adeniyi
 ================================
 
-Flask Developer
+Python|Flask Developer
 -----------------
 
 * 🌍  I'm based in lagos
