@@ -9,7 +9,7 @@ Python|Flask Developer
 * 🧠  I'm learning flask
 * 🌴  I'm Currently Studying: Computer Engineering - (Learning C fundamentals, OOP with C++, and Basics of Discrete Maths)
 * 🤝  I'm open to collaborating on interesting projects
-* 🖥️  See my portfolio at [Portfolio](http://ayo-folio.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](https://portpholio-1aa82369bc08.herokuapp.com/)
 
     
 <b>Skills</b>    
